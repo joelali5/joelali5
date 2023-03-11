@@ -10,7 +10,7 @@ I'm a code craftsman. I'm passionate about problem solving and collaborating wit
 
 - 🔭 I’m currently working on [marketplace](https://github.com/joelali5/marketplace-be)
 
-- 🌱 I’m currently learning **ExpressJs & Tailwindcss**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about Fullstack Development
 
