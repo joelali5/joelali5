@@ -4,9 +4,12 @@
 I'm a full-stack developer aspiring to be a worldclass engineer. I'm passionate about problem solving and collaborating with other people.
 
 **Here are a few things to know about me;**
-* 🌱 I’m currently working with Node and React
+* 🌱 I’m currently working with Node Express and React
 * 💼 My job interests: FullStack software developer, backend developer
 
-### 📫 How to reach me:
-:twitter:[twiiter](https://twitter.com/jimmyx__)
-📧[email](joelaliyu1@gmail.com)
+### 📫 Connect with me:
+* [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/joel-aliyu/) 
+* [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/jimmyx__) 
+
+
+### Languages and Tools:
