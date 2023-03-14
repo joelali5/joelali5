@@ -1,22 +1,17 @@
 ### Hi 👋, I'm Joel Aliyu
-I'm a code craftsman. I'm passionate about problem solving and collaborating with other people.
-<!-- <img align=“right” alt=“coding” width=“400” src=“https://outlane.co/now/new-shot-programmer-animation/”> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joelali5&label=Profile%20views&color=0e75b6&style=flat" alt="joelali5" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelali5" alt="joelali5" /></a> </p> -->
+### I'm a Code Craftsman aspiring to be a worldclass engineer. I'm passionate about problem solving and collaborating with other people.
 
 <p align="left"> <a href="https://twitter.com/jimmyx__" target="blank"><img src="https://img.shields.io/twitter/follow/jimmyx__?logo=twitter&style=for-the-badge" alt="jimmyx__" /></a> </p>
 
 - 🔭 I’m currently working on [marketplace](https://github.com/joelali5/marketplace-be)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **ExpressJs & Tailwindcss**
 
-- 💬 Ask me about Fullstack Development
+- 💬 Ask me about React & Node
 
 - 📫 How to reach me **joelaliyu1@gmail.com**
 
-- ⚡ Fun fact: **I'm really funny**
+- ⚡ Fun fact **I'm really funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
