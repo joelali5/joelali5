@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [marketplace](https://github.com/joelali5/marketplace-be)
 
-- 🌱 I’m currently learning **ExpressJs & Tailwindcss**
-
 - 💬 Ask me about React & Node
 
 - 📫 How to reach me **joelaliyu1@gmail.com**
