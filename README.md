@@ -1,4 +1,4 @@
-### Hi 👋, I'm Joel Aliyu
+### Hi 👋
 ### I'm a Code Craftsman. I'm passionate about problem solving and collaborating with other people.
 
 <p align="left"> <a href="https://twitter.com/jimmyx__" target="blank"><img src="https://img.shields.io/twitter/follow/jimmyx__?logo=twitter&style=for-the-badge" alt="jimmyx__" /></a> </p>
